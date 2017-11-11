@@ -1,7 +1,7 @@
-name             'think'
+name             'multi'
 maintainer       'YOUR_COMPANY_NAME'
 maintainer_email 'YOUR_EMAIL'
 license          'All rights reserved'
-description      'Installs/Configures think'
+description      'Installs/Configures multi'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.6.0'
+version          '0.1.0'
